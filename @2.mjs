@@ -22,5 +22,3 @@ for (let a = 1; a <= hoogte; a++) {
  
     console.log(rij);  
 }
- 
-userInput.close(); 
